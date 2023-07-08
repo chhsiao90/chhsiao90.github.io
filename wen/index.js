@@ -13,7 +13,8 @@ ${errors.map(err => `<div>${err}</div>`).join('')}
 
 const check = (word) => {
   if ([...word].some(ch => charMap[ch])) {
-    return [...word].map(ch => charMap[ch] || ch).join('');
+    const replaced = [...word].map(ch => charMap[ch] || ch).join('');
+    return `${word} => ${replaced}`;
   }
   return undefined;
 };
