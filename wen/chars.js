@@ -13,7 +13,7 @@ const chars = [
  },
  {
   "origin": "俣",
-  "split": "（人＋上口＋下天） "
+  "split": "（人＋口＋天） "
  },
  {
   "origin": "伃",
@@ -85,143 +85,143 @@ const chars = [
  },
  {
   "origin": "亼",
-  "split": "（上人＋下一） "
+  "split": "（人＋一） "
  },
  {
   "origin": "峯",
-  "split": "（上山＋下夆）"
+  "split": "（山＋夆）"
  },
  {
   "origin": "嵓",
-  "split": "（上山＋下品）"
+  "split": "（山＋品）"
  },
  {
   "origin": "嵵",
-  "split": "（上山＋下時） "
+  "split": "（山＋時） "
  },
  {
   "origin": "斈",
-  "split": "（上文＋下子）"
+  "split": "（文＋子）"
  },
  {
   "origin": "炁",
-  "split": "（上旡＋下火）"
+  "split": "（旡＋火）"
  },
  {
   "origin": "妟",
-  "split": "（上日＋下女）"
+  "split": "（日＋女）"
  },
  {
   "origin": "旻",
-  "split": "（上日＋下文） "
+  "split": "（日＋文） "
  },
  {
   "origin": "昺",
-  "split": "（上日＋下丙）"
+  "split": "（日＋丙）"
  },
  {
   "origin": "晏",
-  "split": "（上日＋下安）"
+  "split": "（日＋安）"
  },
  {
   "origin": "昰",
-  "split": "（上曰＋下正）"
+  "split": "（曰＋正）"
  },
  {
   "origin": "晸",
-  "split": "（上曰＋下政）"
+  "split": "（曰＋政）"
  },
  {
   "origin": "沯",
-  "split": "（上水＋下石）"
+  "split": "（水＋石）"
  },
  {
   "origin": "畠",
-  "split": "（上白＋下田） "
+  "split": "（白＋田） "
  },
  {
   "origin": "凭",
-  "split": "（上任＋下几）"
+  "split": "（任＋几）"
  },
  {
   "origin": "垡",
-  "split": "（上伐＋下土）"
+  "split": "（伐＋土）"
  },
  {
   "origin": "訾",
-  "split": "（上此＋下言） "
+  "split": "（此＋言） "
  },
  {
   "origin": "竹+夌",
-  "split": "（上竹＋下夌）"
+  "split": "（竹＋夌）"
  },
  {
   "origin": "箮",
-  "split": "（上竹＋下宣）"
+  "split": "（竹＋宣）"
  },
  {
   "origin": "翬",
-  "split": "（上羽＋下軍） "
+  "split": "（羽＋軍） "
  },
  {
   "origin": "羣",
-  "split": "（上君＋下羊） "
+  "split": "（君＋羊） "
  },
  {
   "origin": "旉",
-  "split": "（上甫＋下方） "
+  "split": "（甫＋方） "
  },
  {
   "origin": "碁",
-  "split": "（上其＋下石） "
+  "split": "（其＋石） "
  },
  {
   "origin": "晳",
-  "split": "（上析＋下曰）"
+  "split": "（析＋曰）"
  },
  {
   "origin": "辳",
-  "split": "（上林＋下辰）"
+  "split": "（林＋辰）"
  },
  {
   "origin": "錱",
-  "split": "（上金＋下玨）"
+  "split": "（金＋玨）"
  },
  {
   "origin": "霙",
-  "split": "（上雨＋下英）"
+  "split": "（雨＋英）"
  },
  {
   "origin": "霩",
-  "split": "（上雨＋下郭） "
+  "split": "（雨＋郭） "
  },
  {
   "origin": "霱",
-  "split": "（上雨＋下橘 - 木）"
+  "split": "（雨＋橘 - 木）"
  },
  {
   "origin": "鎏",
-  "split": "（上流＋下金）"
+  "split": "（流＋金）"
  },
  {
   "origin": "鍫",
-  "split": "（上秋＋下金）"
+  "split": "（秋＋金）"
  },
  {
   "origin": "茲+心",
-  "split": "（上茲＋下心）"
+  "split": "（茲＋心）"
  },
  {
   "origin": "勲",
-  "split": "（上動＋下火）"
+  "split": "（動＋火）"
  },
  {
   "origin": "麐",
-  "split": "（上鹿＋下吝）"
+  "split": "（鹿＋吝）"
  },
  {
   "origin": "憙",
-  "split": "（上喜＋下心） "
+  "split": "（喜＋心） "
  },
  {
   "origin": "咏",
