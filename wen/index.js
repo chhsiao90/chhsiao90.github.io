@@ -20,10 +20,18 @@ const check = (word) => {
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-  document.querySelector('button').addEventListener('click', () => {
-    const text = document.querySelector('#input').value;
+  const input = document.querySelector('#input');
+  const output = document.querySelector('#output');
+
+  document.querySelector('.submit').addEventListener('click', () => {
+    const text = input.value;
     const words = text.split(/\n/).filter(word => word);
     const errors = words.map(check).filter(word => word);
-    document.querySelector('#output').innerHTML = generateResult(words, errors);
+    output.innerHTML = generateResult(words, errors);
   });
+
+  document.querySelector('.clear').addEventListener('click', () => {
+    input.value = '';
+    output.innerHTML = '';
+  })
 }); 
