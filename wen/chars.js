@@ -13,11 +13,11 @@ const chars = [
  },
  {
   "origin": "俣",
-  "split": "（人＋口＋天） "
+  "split": "（人＋口＋天）"
  },
  {
   "origin": "伃",
-  "split": "（人＋予） "
+  "split": "（人＋予）"
  },
  {
   "origin": "伩",
@@ -37,19 +37,19 @@ const chars = [
  },
  {
   "origin": "俼",
-  "split": "（人＋育） "
+  "split": "（人＋育）"
  },
  {
   "origin": "俹",
-  "split": "（人＋亞） "
+  "split": "（人＋亞）"
  },
  {
   "origin": "倈",
-  "split": "（人＋來） "
+  "split": "（人＋來）"
  },
  {
   "origin": "俽",
-  "split": "（人＋欣） "
+  "split": "（人＋欣）"
  },
  {
   "origin": "傛",
@@ -57,11 +57,11 @@ const chars = [
  },
  {
   "origin": "僡",
-  "split": "（人＋惠）  "
+  "split": "（人＋惠） "
  },
  {
   "origin": "儁",
-  "split": "（人＋雋） "
+  "split": "（人＋雋）"
  },
  {
   "origin": "儫",
@@ -73,19 +73,19 @@ const chars = [
  },
  {
   "origin": "栆",
-  "split": "（十＋口＋於 - 方）"
+  "split": "（十＋口＋於－方）"
  },
  {
   "origin": "龎",
-  "split": "（厂＋龍） "
+  "split": "（厂＋龍）"
  },
  {
   "origin": "双",
-  "split": "（又＋又） "
+  "split": "（又＋又）"
  },
  {
   "origin": "亼",
-  "split": "（人＋一） "
+  "split": "（人＋一）"
  },
  {
   "origin": "峯",
@@ -97,7 +97,7 @@ const chars = [
  },
  {
   "origin": "嵵",
-  "split": "（山＋時） "
+  "split": "（山＋時）"
  },
  {
   "origin": "斈",
@@ -113,7 +113,7 @@ const chars = [
  },
  {
   "origin": "旻",
-  "split": "（日＋文） "
+  "split": "（日＋文）"
  },
  {
   "origin": "昺",
@@ -137,7 +137,7 @@ const chars = [
  },
  {
   "origin": "畠",
-  "split": "（白＋田） "
+  "split": "（白＋田）"
  },
  {
   "origin": "凭",
@@ -149,7 +149,7 @@ const chars = [
  },
  {
   "origin": "訾",
-  "split": "（此＋言） "
+  "split": "（此＋言）"
  },
  {
   "origin": "竹+夌",
@@ -161,19 +161,19 @@ const chars = [
  },
  {
   "origin": "翬",
-  "split": "（羽＋軍） "
+  "split": "（羽＋軍）"
  },
  {
   "origin": "羣",
-  "split": "（君＋羊） "
+  "split": "（君＋羊）"
  },
  {
   "origin": "旉",
-  "split": "（甫＋方） "
+  "split": "（甫＋方）"
  },
  {
   "origin": "碁",
-  "split": "（其＋石） "
+  "split": "（其＋石）"
  },
  {
   "origin": "晳",
@@ -193,11 +193,11 @@ const chars = [
  },
  {
   "origin": "霩",
-  "split": "（雨＋郭） "
+  "split": "（雨＋郭）"
  },
  {
   "origin": "霱",
-  "split": "（雨＋橘 - 木）"
+  "split": "（雨＋橘－木）"
  },
  {
   "origin": "鎏",
@@ -221,15 +221,15 @@ const chars = [
  },
  {
   "origin": "憙",
-  "split": "（喜＋心） "
+  "split": "（喜＋心）"
  },
  {
   "origin": "咏",
-  "split": "（口＋永） "
+  "split": "（口＋永）"
  },
  {
   "origin": "囇",
-  "split": "（口＋麗） "
+  "split": "（口＋麗）"
  },
  {
   "origin": "圳",
@@ -241,7 +241,7 @@ const chars = [
  },
  {
   "origin": "坂",
-  "split": "（土＋反） "
+  "split": "（土＋反）"
  },
  {
   "origin": "埄",
@@ -249,7 +249,7 @@ const chars = [
  },
  {
   "origin": "墻",
-  "split": "（土＋嗇） "
+  "split": "（土＋嗇）"
  },
  {
   "origin": "壎",
@@ -257,11 +257,11 @@ const chars = [
  },
  {
   "origin": "墀",
-  "split": "（土 +樨 - 木） "
+  "split": "（土＋樨 - 木）"
  },
  {
   "origin": "姮",
-  "split": "（女＋一 +旦）"
+  "split": "（女＋一＋旦）"
  },
  {
   "origin": "媫",
@@ -293,7 +293,7 @@ const chars = [
  },
  {
   "origin": "姯",
-  "split": "（女＋光） "
+  "split": "（女＋光）"
  },
  {
   "origin": "女+衣",
@@ -357,7 +357,7 @@ const chars = [
  },
  {
   "origin": "媺",
-  "split": "（女＋微 - ㄔ） "
+  "split": "（女＋微 - ㄔ）"
  },
  {
   "origin": "嬑",
@@ -381,7 +381,7 @@ const chars = [
  },
  {
   "origin": "岄",
-  "split": "（山 +月 ）"
+  "split": "（山＋月 ）"
  },
  {
   "origin": "岫",
@@ -389,7 +389,7 @@ const chars = [
  },
  {
   "origin": "峼",
-  "split": "（山＋告） "
+  "split": "（山＋告）"
  },
  {
   "origin": "崡",
@@ -397,7 +397,7 @@ const chars = [
  },
  {
   "origin": "嶋",
-  "split": "（山＋鳥） "
+  "split": "（山＋鳥）"
  },
  {
   "origin": "帉",
@@ -421,7 +421,7 @@ const chars = [
  },
  {
   "origin": "堃",
-  "split": "（方＋方＋土） "
+  "split": "（方＋方＋土）"
  },
  {
   "origin": "斾",
@@ -429,19 +429,19 @@ const chars = [
  },
  {
   "origin": "晗",
-  "split": "（日＋含）  "
+  "split": "（日＋含）"
  },
  {
   "origin": "晧",
-  "split": "（日＋告） "
+  "split": "（日＋告）"
  },
  {
   "origin": "昫",
-  "split": "（日＋呴 - 口） "
+  "split": "（日＋呴 - 口）"
  },
  {
   "origin": "暎",
-  "split": "（日＋英） "
+  "split": "（日＋英）"
  },
  {
   "origin": "曔",
@@ -453,7 +453,7 @@ const chars = [
  },
  {
   "origin": "栢",
-  "split": "（木＋百） "
+  "split": "（木＋百）"
  },
  {
   "origin": "梃",
@@ -465,7 +465,7 @@ const chars = [
  },
  {
   "origin": "椀",
-  "split": "（木＋宛） "
+  "split": "（木＋宛）"
  },
  {
   "origin": "楡",
@@ -481,7 +481,7 @@ const chars = [
  },
  {
   "origin": "樫",
-  "split": "（木＋堅） "
+  "split": "（木＋堅）"
  },
  {
   "origin": "樎",
@@ -489,7 +489,7 @@ const chars = [
  },
  {
   "origin": "榤",
-  "split": "（木＋傑 - 人） "
+  "split": "（木＋傑 - 人）"
  },
  {
   "origin": "櫘",
@@ -505,7 +505,7 @@ const chars = [
  },
  {
   "origin": "温",
-  "split": "（水＋日＋皿） "
+  "split": "（水＋日＋皿）"
  },
  {
   "origin": "泯",
@@ -521,11 +521,11 @@ const chars = [
  },
  {
   "origin": "淙",
-  "split": "（水＋宗） "
+  "split": "（水＋宗）"
  },
  {
   "origin": "湶",
-  "split": "（水＋泉） "
+  "split": "（水＋泉）"
  },
  {
   "origin": "湛",
@@ -533,7 +533,7 @@ const chars = [
  },
  {
   "origin": "湫",
-  "split": "（水＋秋） "
+  "split": "（水＋秋）"
  },
  {
   "origin": "渢",
@@ -545,7 +545,7 @@ const chars = [
  },
  {
   "origin": "滺",
-  "split": "（水＋悠） "
+  "split": "（水＋悠）"
  },
  {
   "origin": "潄",
@@ -561,15 +561,15 @@ const chars = [
  },
  {
   "origin": "濚",
-  "split": "（水＋榮） "
+  "split": "（水＋榮）"
  },
  {
   "origin": "濬",
-  "split": "（水＋睿） "
+  "split": "（水＋睿）"
  },
  {
   "origin": "瀞",
-  "split": "（水＋靜） "
+  "split": "（水＋靜）"
  },
  {
   "origin": "灍",
@@ -581,7 +581,7 @@ const chars = [
  },
  {
   "origin": "灯",
-  "split": "（火＋丁） "
+  "split": "（火＋丁）"
  },
  {
   "origin": "爗",
@@ -589,7 +589,7 @@ const chars = [
  },
  {
   "origin": "畑",
-  "split": "（火＋田） "
+  "split": "（火＋田）"
  },
  {
   "origin": "烟",
@@ -637,11 +637,11 @@ const chars = [
  },
  {
   "origin": "玳",
-  "split": "（王＋代） "
+  "split": "（王＋代）"
  },
  {
   "origin": "珆",
-  "split": "（王＋台） "
+  "split": "（王＋台）"
  },
  {
   "origin": "珉",
@@ -689,11 +689,11 @@ const chars = [
  },
  {
   "origin": "瑝",
-  "split": "（王＋皇） "
+  "split": "（王＋皇）"
  },
  {
   "origin": "瑨",
-  "split": "（王＋晉）  "
+  "split": "（王＋晉） "
  },
  {
   "origin": "瑮",
@@ -701,7 +701,7 @@ const chars = [
  },
  {
   "origin": "瑠",
-  "split": "（王＋留） "
+  "split": "（王＋留）"
  },
  {
   "origin": "瑱",
@@ -709,7 +709,7 @@ const chars = [
  },
  {
   "origin": "璌",
-  "split": "（王＋寅） "
+  "split": "（王＋寅）"
  },
  {
   "origin": "璤",
@@ -721,7 +721,7 @@ const chars = [
  },
  {
   "origin": "璝",
-  "split": "（王＋貴） "
+  "split": "（王＋貴）"
  },
  {
   "origin": "璦",
@@ -737,11 +737,11 @@ const chars = [
  },
  {
   "origin": "瓈",
-  "split": "（王＋黎） "
+  "split": "（王＋黎）"
  },
  {
   "origin": "瓐",
-  "split": "（王＋盧） "
+  "split": "（王＋盧）"
  },
  {
   "origin": "瓴",
@@ -761,7 +761,7 @@ const chars = [
  },
  {
   "origin": "睆",
-  "split": "（目＋完） "
+  "split": "（目＋完）"
  },
  {
   "origin": "睎",
@@ -773,7 +773,7 @@ const chars = [
  },
  {
   "origin": "磘",
-  "split": "（石＋采 - 木＋缶） "
+  "split": "（石＋采 - 木＋缶）"
  },
  {
   "origin": "碃",
@@ -797,7 +797,7 @@ const chars = [
  },
  {
   "origin": "宝",
-  "split": "（穴 - 八＋玉） "
+  "split": "（穴 - 八＋玉）"
  },
  {
   "origin": "竛",
@@ -805,7 +805,7 @@ const chars = [
  },
  {
   "origin": "竝",
-  "split": "（立＋立） "
+  "split": "（立＋立）"
  },
  {
   "origin": "亷",
@@ -821,7 +821,7 @@ const chars = [
  },
  {
   "origin": "冴",
-  "split": "（冰 - 水＋牙） "
+  "split": "（冰 - 水＋牙）"
  },
  {
   "origin": "况",
@@ -833,7 +833,7 @@ const chars = [
  },
  {
   "origin": "喆",
-  "split": "（吉＋吉） "
+  "split": "（吉＋吉）"
  },
  {
   "origin": "頡",
@@ -841,15 +841,15 @@ const chars = [
  },
  {
   "origin": "宝",
-  "split": "（安 - 女＋玉） "
+  "split": "（安 - 女＋玉）"
  },
  {
   "origin": "竼",
-  "split": "（竹＋凡） "
+  "split": "（竹＋凡）"
  },
  {
   "origin": "笹",
-  "split": "（竹＋世） "
+  "split": "（竹＋世）"
  },
  {
   "origin": "籾",
@@ -869,7 +869,7 @@ const chars = [
  },
  {
   "origin": "綉",
-  "split": "（糸＋秀） "
+  "split": "（糸＋秀）"
  },
  {
   "origin": "綨",
@@ -893,11 +893,11 @@ const chars = [
  },
  {
   "origin": "叙",
-  "split": "（余＋又） "
+  "split": "（余＋又）"
  },
  {
   "origin": "凃",
-  "split": "（冷 - 令＋余） "
+  "split": "（冷 - 令＋余）"
  },
  {
   "origin": "凉",
@@ -909,7 +909,7 @@ const chars = [
  },
  {
   "origin": "廸",
-  "split": "（廷 - 壬＋由） "
+  "split": "（廷 - 壬＋由）"
  },
  {
   "origin": "廼",
@@ -921,7 +921,7 @@ const chars = [
  },
  {
   "origin": "甦",
-  "split": "（更＋生） "
+  "split": "（更＋生）"
  },
  {
   "origin": "諪",
@@ -945,7 +945,7 @@ const chars = [
  },
  {
   "origin": "碁",
-  "split": "（其＋石） "
+  "split": "（其＋石）"
  },
  {
   "origin": "寗",
@@ -953,19 +953,19 @@ const chars = [
  },
  {
   "origin": "広",
-  "split": "（府 - 付＋ㄙ） "
+  "split": "（府 - 付＋ㄙ）"
  },
  {
   "origin": "舘",
-  "split": "（舍＋官） "
+  "split": "（舍＋官）"
  },
  {
   "origin": "込",
-  "split": "（近 - 斤＋入） "
+  "split": "（近 - 斤＋入）"
  },
  {
   "origin": "釱",
-  "split": "（金＋大） "
+  "split": "（金＋大）"
  },
  {
   "origin": "釥",
@@ -977,7 +977,7 @@ const chars = [
  },
  {
   "origin": "錱",
-  "split": "（金＋王＋王） "
+  "split": "（金＋王＋王）"
  },
  {
   "origin": "鉪",
@@ -993,7 +993,7 @@ const chars = [
  },
  {
   "origin": "鉷",
-  "split": "（金＋共） "
+  "split": "（金＋共）"
  },
  {
   "origin": "鋛",
@@ -1001,7 +1001,7 @@ const chars = [
  },
  {
   "origin": "金+秀",
-  "split": "（金＋秀） "
+  "split": "（金＋秀）"
  },
  {
   "origin": "鍁",
@@ -1017,23 +1017,23 @@ const chars = [
  },
  {
   "origin": "鍀",
-  "split": "（金＋得 - 彳） "
+  "split": "（金＋得－彳）"
  },
  {
   "origin": "鉁",
-  "split": "（金＋診 - 言）"
+  "split": "（金＋診－言）"
  },
  {
   "origin": "鐦",
-  "split": "（金＋開） "
+  "split": "（金＋開）"
  },
  {
   "origin": "兪",
-  "split": "（俞 - 刖＋月＋ㄍ） "
+  "split": "（俞－刖＋月＋ㄍ）"
  },
  {
   "origin": "献",
-  "split": "（南＋犬） "
+  "split": "（南＋犬）"
  },
  {
   "origin": "顒",
@@ -1053,7 +1053,7 @@ const chars = [
  },
  {
   "origin": "韸",
-  "split": "（音＋夆） "
+  "split": "（音＋夆）"
  },
  {
   "origin": "斾",
@@ -1061,115 +1061,115 @@ const chars = [
  },
  {
   "origin": "芿",
-  "split": "（草 - 早＋仍）"
+  "split": "（草－早＋仍）"
  },
  {
   "origin": "蒀",
-  "split": "（草 - 早＋日＋皿）"
+  "split": "（草－早＋日＋皿）"
  },
  {
   "origin": "茬",
-  "split": "（草 - 早＋在） "
+  "split": "（草－早＋在）"
  },
  {
   "origin": "荐",
-  "split": "（草 - 早＋存）"
+  "split": "（草－早＋存）"
  },
  {
   "origin": "莅",
-  "split": "（草 - 早＋位）"
+  "split": "（草－早＋位）"
  },
  {
   "origin": "菓",
-  "split": "（草 - 早＋果） "
+  "split": "（草－早＋果）"
  },
  {
   "origin": "葶",
-  "split": "（草 - 早＋亭）"
+  "split": "（草－早＋亭）"
  },
  {
   "origin": "萾",
-  "split": "（草 - 早＋盈）"
+  "split": "（草－早＋盈）"
  },
  {
   "origin": "葿",
-  "split": "（草 - 早＋眉）"
+  "split": "（草－早＋眉）"
  },
  {
   "origin": "韮",
-  "split": "（草 - 早＋韭） "
+  "split": "（草－早＋韭）"
  },
  {
   "origin": "蒨",
-  "split": "（草 - 早＋倩）"
+  "split": "（草－早＋倩）"
  },
  {
   "origin": "荣",
-  "split": "（草 - 早＋冢 - 豖＋木）"
+  "split": "（草－早＋冢－豖＋木）"
  },
  {
   "origin": "蒲",
-  "split": "（草 - 早＋浦）"
+  "split": "（草－早＋浦）"
  },
  {
   "origin": "蒖",
-  "split": "（草 - 早＋真）"
+  "split": "（草－早＋真）"
  },
  {
   "origin": "蒓",
-  "split": "（草 - 早＋純）"
+  "split": "（草－早＋純）"
  },
  {
   "origin": "薏",
-  "split": "（草 - 早＋意）"
+  "split": "（草－早＋意）"
  },
  {
   "origin": "蕿",
-  "split": "（草 - 早＋煖）"
+  "split": "（草－早＋煖）"
  },
  {
   "origin": "蘐",
-  "split": "（草 - 早＋諼）"
+  "split": "（草－早＋諼）"
  },
  {
   "origin": "関",
-  "split": "（問 - 口＋朕 - 月）"
+  "split": "（問－口＋朕－月）"
  },
  {
   "origin": "碁",
-  "split": "（基 - 土＋石） "
+  "split": "（基－土＋石）"
  },
  {
   "origin": "竪",
-  "split": "（堅 - 土＋立）"
+  "split": "（堅－土＋立）"
  },
  {
   "origin": "寗",
-  "split": "（密 - 山＋冉） "
+  "split": "（密－山＋冉）"
  },
  {
   "origin": "甯",
-  "split": "（密 - 山＋用）"
+  "split": "（密－山＋用）"
  },
  {
   "origin": "恒",
-  "split": "（情 - 青＋一＋旦）"
+  "split": "（情－青＋一＋旦）"
  },
  {
   "origin": "愽",
-  "split": "（情 - 青＋尃）"
+  "split": "（情－青＋尃）"
  },
  {
   "origin": "濶",
-  "split": "（淋 - 林＋門＋舌）"
+  "split": "（淋－林＋門＋舌）"
  },
  {
   "origin": "洤",
-  "split": "（淦 - 金＋全）"
+  "split": "（淦－金＋全）"
  },
  {
   "origin": "瀞",
-  "split": "（清＋爭） "
+  "split": "（清＋爭）"
  },
  {
   "origin": "鱻",
@@ -1181,11 +1181,11 @@ const chars = [
  },
  {
   "origin": "琹",
-  "split": "（琶 - 巴＋木）"
+  "split": "（琶－巴＋木）"
  },
  {
   "origin": "寗",
-  "split": "（甯 - 用＋冉）"
+  "split": "（甯－用＋冉）"
  },
  {
   "origin": "靆",
@@ -1193,23 +1193,23 @@ const chars = [
  },
  {
   "origin": "温",
-  "split": "（溫 - 囚＋日）"
+  "split": "（溫－囚＋日）"
  },
  {
   "origin": "顓",
-  "split": "（煓 - 火＋頁）"
+  "split": "（煓－火＋頁）"
  },
  {
   "origin": "琹",
-  "split": "（瑟 - 必＋木） "
+  "split": "（瑟－必＋木）"
  },
  {
   "origin": "鋆",
-  "split": "（筠 - 竹＋金）"
+  "split": "（筠－竹＋金）"
  },
  {
   "origin": "艶",
-  "split": "（豊＋色） "
+  "split": "（豊＋色）"
  },
  {
   "origin": "豑",
@@ -1217,27 +1217,27 @@ const chars = [
  },
  {
   "origin": "熲",
-  "split": "（潁 - 水＋火）"
+  "split": "（潁－水＋火）"
  },
  {
   "origin": "鎣",
-  "split": "（瑩 - 玉＋金）"
+  "split": "（瑩－玉＋金）"
  },
  {
   "origin": "瑴",
-  "split": "（穀 - 禾＋王）"
+  "split": "（穀－禾＋王）"
  },
  {
   "origin": "潁",
-  "split": "（穎 - 禾＋水）"
+  "split": "（穎－禾＋水）"
  },
  {
   "origin": "頴",
-  "split": "（穎 - 禾＋示）"
+  "split": "（穎－禾＋示）"
  },
  {
   "origin": "甇",
-  "split": "（螢 - 虫＋瓦）"
+  "split": "（螢－虫＋瓦）"
  },
  {
   "origin": "鸜",
@@ -1245,11 +1245,11 @@ const chars = [
  },
  {
   "origin": "顗",
-  "split": "（颽 - 風＋頁） "
+  "split": "（颽－風＋頁）"
  },
  {
   "origin": "禛",
-  "split": "（槙 - 木＋示）"
+  "split": "（槙－木＋示）"
  }
 ]
 
