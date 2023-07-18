@@ -7,6 +7,7 @@ const charMap = chars.reduce((accu, { origin, split }) => ({
 const generateResult = (words, errors) => `
 <h4 class="alert alert-light">
   結果：輸入共 ${words.length} 筆資料，有 ${errors.length} 筆資料錯誤
+  <button type="button" class="btn copy">複製</button>
 </h4>
 ${errors.map(err => `<div>${err}</div>`).join('')}
 `;
@@ -14,7 +15,7 @@ ${errors.map(err => `<div>${err}</div>`).join('')}
 const check = (word) => {
   if ([...word].some(ch => charMap[ch])) {
     const replaced = [...word].map(ch => charMap[ch] || ch).join('');
-    return `${word} => ${replaced}`;
+    return `${word} => <span class="text">${replaced}</span>`;
   }
   return undefined;
 };
@@ -34,4 +35,12 @@ document.addEventListener('DOMContentLoaded', () => {
     input.value = '';
     output.innerHTML = '';
   })
+
+  output.addEventListener('click', ({ target }) => {
+    if (target.matches('.copy')) {
+      const texts = []
+      output.querySelectorAll('.text').forEach(element => texts.push(element.innerText));
+      navigator.clipboard.writeText(texts.join('\n'));
+    }
+  });
 }); 
