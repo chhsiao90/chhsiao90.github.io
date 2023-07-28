@@ -1,8 +1,11 @@
-import chars from './chars.js';
 
-const charMap = chars.reduce((accu, { origin, split }) => ({
-  ...accu, [origin]: split,
-}), {});
+const loadChars = async () => {
+  const resp = await fetch('./chars.json');
+  const json = await resp.json();
+  return json.reduce((accu, { origin, split }) => ({
+    ...accu, [origin]: split,
+  }), {});
+}
 
 const generateResult = (words, errors) => `
 <h4 class="alert alert-light">
@@ -12,22 +15,23 @@ const generateResult = (words, errors) => `
 ${errors.map(err => `<div>${err}</div>`).join('')}
 `;
 
-const check = (word) => {
-  if ([...word].some(ch => charMap[ch])) {
-    const replaced = [...word].map(ch => charMap[ch] || ch).join('');
+const check = (chars) => (word) => {
+  if ([...word].some(ch => chars[ch])) {
+    const replaced = [...word].map(ch => chars[ch] || ch).join('');
     return `${word} => <span class="text">${replaced}</span>`;
   }
   return undefined;
 };
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
   const input = document.querySelector('#input');
   const output = document.querySelector('#output');
+  const chars = await loadChars();
 
   document.querySelector('.submit').addEventListener('click', () => {
     const text = input.value;
     const words = text.split(/\n/).filter(word => word);
-    const errors = words.map(check).filter(word => word);
+    const errors = words.map(check(chars)).filter(word => word);
     output.innerHTML = generateResult(words, errors);
   });
 
